@@ -11,7 +11,7 @@ rgbColours = [(239, 0, 235), (236, 0, 240), (126, 0, 236), (199, 154, 115), (241
 #     b = colour.rgb.b
 #     rgb = (r,g,b)
 #     rgbColours.append(rgb)
-# print(rgbColours)
+# print(rgbColours)   
 screen = Screen()
 screen.setup(width=600, height=600)
 screen.colormode(255)  # RGB mode
